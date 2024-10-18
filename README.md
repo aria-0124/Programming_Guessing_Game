@@ -7,7 +7,7 @@ Then the user inputs a number repeatedly until it matches the number the program
 To start the game, follow these steps:
 
 ```
-git clone https://github.com/aria-0124/Programming_Guessing_Game
+git clone https://github.com/aria-0124/Programming_Guessing_Game.git
 
 run ./target/debug/guessing_game.exe
 ```
